@@ -1,0 +1,17 @@
+# NetBeans - NO SUBIR NUNCA
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Archivos generados por Java
+*.class
+*.jar
+
+# Logs
+*.log
+
+# IDE
+.idea/
+*.iml
